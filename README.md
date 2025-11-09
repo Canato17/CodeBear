@@ -1,4 +1,4 @@
-# <img width="50" height="500" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/93936726-80f7-4d8d-9662-025549c35c64" /> Code Bear
+# <img width="100" height="500" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/93936726-80f7-4d8d-9662-025549c35c64" /> Code Bear
 
 
 
