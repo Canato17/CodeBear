@@ -1,4 +1,6 @@
-# 🐻 Code Bear
+# <img width="50" height="500" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/93936726-80f7-4d8d-9662-025549c35c64" /> Code Bear
+
+
 
 **Code Bear** é um jogo educacional desenvolvido como parte do Trabalho de Conclusão de Curso do Tecnólogo em Sistemas para Internet.  
 O objetivo do projeto é ensinar **conceitos básicos de programação e raciocínio lógico** de forma **lúdica e interativa**, utilizando elementos de **gamificação** e **desafios matemáticos**.
